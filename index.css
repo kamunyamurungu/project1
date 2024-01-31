@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 0px;
+    background-color:beige
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  img {
+    display:block;
+    max-width: 50%;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #search-container {
+    text-align: right;
+    margin-top: 20px;
+  background-color:aquamarine;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  
+  }
+  input[type=text] {
+    width: 200px;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  button {
+    padding: 8px;
+    cursor: pointer;
+  }
+  .social-links{
+      width: 96%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 2%;
+      max-width: 100%;
+      height: auto;
+      background-color:aquamarine ;
+      margin-bottom: 0px;
+      margin-top: 0px;
+  
+  }
+  nav ul{
+      width: 50%;
+      display: inline-flex;
+      align-items: right;
+      justify-content: space-between;
+      padding: 10px 0;
+      background-color:aquamarine;
+      margin-bottom: 0%;
+      margin-top: 0px;
+      height: auto;
+  }
+  h1{
+    color:magenta;
+    text-shadow:magenta;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      width: 96%;
+      background-color:aquamarine ;
+      height: 10px;
+      padding: 2%;
+      text-align: left;
+      margin-bottom: 0%;
+      margin-top: 0px;
+      font-size:50px ;
+  
+  }
+  #tit{
+      text-align: center;
+      background-color:darkslategrey;
+      font-size: larger;
+      height: 50px;
+      line-height: 50px;
+      margin-bottom: 0px;
+      font-style: oblique;
+      font-weight: bold;
+      margin-top: 0px;
+      color:white;
+      font-family: sans-serif;
+  }
+  #tit1{
+    text-align: center;
+    background-color: darkslategrey;
+    font-size: larger;
+    height: 50px;
+    line-height: 50px;
+    margin-bottom: 0px;
+    font-style: oblique;
+    font-weight: bold;
+    margin-top: 0px;
+    color:white;
+    font-family: sans-serif;
+}
+#tit2{
+  text-align: center;
+  background-color: darkslategrey;
+  font-size: larger;
+  height: 50px;
+  line-height: 50px;
+  margin-bottom: 0px;
+  font-style: oblique;
+  font-weight: bold;
+  margin-top: 0px;
+  color:white;
+  font-family: sans-serif;
+}
+  h2{
+    color:white;
+    margin-top: 0px;
+    background-color: darkslategrey
+  }
+  p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:blue
+    }
